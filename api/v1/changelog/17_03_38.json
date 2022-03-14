@@ -1,6 +1,0 @@
-{
-  "title": "Vanced 17.03.38",
-  "message": "- Update to 17.03.38 \n- Bumped base \n- ReturnYouTubeDislike integration\n- Channel whitelisting for video ads\n- Improved ad-blocking\n- Comments location (alpha) has been removed (because Google pushed new comments to tablet UI)\n- Added tablet style under swipe controls for partially disabling recommended videos in landscape mode and other tablet styled UI\n- Added support for themed icon (Android 13+)\n\nSponsorblock changes:\n- added support for channel whitelisting (see the \"Channel whitelisting\" toggle in sb settings\n- added support for setting the minimum segment duration\n- added the filler category\n- replaced the \"Change colors\" button with a text field inside of each category's setting\n- 403 messages (warns, locked video/segment) will now be properly displayed\n- added an option to enable SB browser button.\n- option to change the API URL\n\nKNOWN ISSUES:\n- For some users (around 15%) google has pushed out a UI update that breaks RYD and any other vanced buttons added below videos\n- all the usual previous issues relating to Chromecast and swipe down to refresh.",
-  "buttonpositive": "Dismiss",
-  "buttonnegative": "Later"
-}
